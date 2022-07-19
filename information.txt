@@ -1,0 +1,9 @@
+this project for classification cats and dog by Vgg 16 on custom data
+
+first two cell in file cats&dogs.ipynb for call dataset from kaggle 
+
+you prefer test code in cloud system like google colab
+
+if you face some problems in understand any code you can call me whatsapp in +20 01091536978
+
+bye bye
